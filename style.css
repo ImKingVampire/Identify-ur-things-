@@ -1,0 +1,21 @@
+.heading
+{
+    font-size:29px;
+    width: 100%;
+    margin:2px;
+    box-shadow: 10px 10px 10px cyan;
+}
+
+.heading_div
+{
+    float: top;
+    background:midnightblue;
+    padding: 20px;
+    border-radius: 25px;
+    color:palegreen;
+    box-shadow:  10px 10px 10px cyan;
+}
+.heading_div2
+{
+    font-size:  18px;
+}
